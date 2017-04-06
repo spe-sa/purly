@@ -1,0 +1,16 @@
+.DS_Store
+.DS_Store?
+*.pyc
+*.scssc
+*/.idea/*
+*.7z
+*.gz
+*.zip
+*.rar
+*.tar
+*.log
+.Trashes
+Thumbs.db
+*cached*
+*.backup_*
+*offline*
