@@ -14,3 +14,5 @@ Thumbs.db
 *cached*
 *.backup_*
 *offline*
+
+.python-version
